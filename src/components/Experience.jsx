@@ -4,11 +4,7 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import node from "../assets/node.png";
 import github from "../assets/github.png";
-import mongodb from "../assets/mongodb.png";
-import Python from "../assets/Python.png";
-import postgressql from "../assets/postgresql.png";
 import nextJS from "../assets/nextjs.png";
 
 

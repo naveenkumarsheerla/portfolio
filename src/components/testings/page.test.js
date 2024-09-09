@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable testing-library/prefer-screen-queries */
-import { fireEvent, getByTestId, getByText, render,screen } from "@testing-library/react";
+import { fireEvent, render,screen } from "@testing-library/react";
 import '@testing-library/jest-dom';
 import Contact from "../Contact";
 import Home from "../Home";
@@ -8,8 +8,6 @@ import About from "../About";
 import Portfolio from "../Portfolio";
 import NavBar from "../NavBar";
 import Experience from "../Experience";
-import SocialLinks from "../SocialLinks";
-import { Links } from "../SocialLinks"
 
 
 describe("HomePage",()=>{
