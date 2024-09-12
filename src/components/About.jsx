@@ -14,19 +14,19 @@ const About = () => {
         </div>
 
         <p className="text-xl">
-        I am a passionate Front-end Developer with an MCA qualification, specializing in React.js and Next.js. Currently at Apaar Software Technology Services Private Limited, I leverage my expertise to deliver impactful solutions using cutting-edge technologies. 
+          I am a passionate Front-end Developer with 2.8 years of experience and an MCA qualification, specializing in React.js and Next.js. Currently at Apaar Software Technology Services Private Limited, I leverage my expertise to deliver impactful solutions using cutting-edge technologies.
         </p>
 
         <br />
 
         <p className="text-xl">
-        My journey in the tech world has equipped me with a profound understanding of both Front-end and Back-end technologies, enabling me to create robust and efficient software solutions.
-        As a proactive learner, I consistently stay ahead in the ever-evolving tech landscape, keeping myself updated with the latest industry trends. My confidence, dedication, and strong work ethic make me a valuable asset to any team or organization seeking innovative solutions in technology.
+          My journey in the tech world has equipped me with a profound understanding of both Front-end and Back-end technologies, enabling me to create robust and efficient software solutions.
+          As a proactive learner, I consistently stay ahead in the ever-evolving tech landscape, keeping myself updated with the latest industry trends. My confidence, dedication, and strong work ethic make me a valuable asset to any team or organization seeking innovative solutions in technology.
         </p>
 
         <br />
 
-      
+
       </div>
     </div>
   );
