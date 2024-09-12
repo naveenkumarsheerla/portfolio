@@ -1,6 +1,5 @@
 import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 
 const SocialLinks = () => {
@@ -12,7 +11,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/praveen-kumar05",
+      href: "https://www.linkedin.com/in/sheerla-naveen-kumar-71037a179",
       style: "rounded-tr-md",
     },
     {
@@ -22,25 +21,16 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/Praveenkurupati",
+      href: "https://github.com/naveenkumarsheerla",
     },
     {
       id: 3,
       child: (
         <>
-          Mail <HiOutlineMail size={30} />
-        </>
-      ),
-      href: "mailto:praveenkurupati5@gmail.com",
-    },
-    {
-      id: 4,
-      child: (
-        <>
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/Praveen_Resume.pdf",
+      href: "/Naveenkumar.sheerla.Frontend-developer.pdf",
       style: "rounded-br-md",
       download: true,
     },

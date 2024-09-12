@@ -10,7 +10,8 @@ const Home = () => {
       strings: [
         "ReactJS",
         "NextJS",
-        "Front End"
+        "Front End",
+        "Web"
       ],
       typeSpeed: 100,
       backSpeed: 100,
