@@ -11,7 +11,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/sheerla-naveen-kumar-71037a179",
+      href: "https://www.linkedin.com/in/sheerla-naveenkumar/",
       style: "rounded-tr-md",
     },
     {
@@ -30,7 +30,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/Naveenkumar.sheerla.Frontend-developer.pdf",
+      href: "/Naveenkumar.sheerla(Frontend-Developer).pdf",
       style: "rounded-br-md",
       download: true,
     },
