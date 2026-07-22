@@ -8,10 +8,10 @@ const Home = () => {
   useEffect(() => {
     const options = {
       strings: [
-        "ReactJS",
-        "NextJS",
-        "Front End",
-        "Web"
+        "Full Stack",
+        "React.js",
+        "Next.js",
+        "Node.js"
       ],
       typeSpeed: 100,
       backSpeed: 100,
@@ -38,8 +38,9 @@ const Home = () => {
             <span className="text-teal-300 typing-element "> </span> Developer
           </h2>
           <p className="max-w-md py-4 text-gray-400">
-            I love to work on web applications using technologies like
-            HTML, CSS, JavaScript, ReactJS, NextJS.
+            I build scalable, full stack web applications using React.js,
+            Next.js, and Node.js — from responsive UIs to secure APIs and
+            database-backed features.
           </p>
 
           <div>

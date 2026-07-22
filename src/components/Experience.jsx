@@ -6,6 +6,10 @@ import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import github from "../assets/github.png";
 import nextJS from "../assets/nextjs.png";
+import node from "../assets/node.png";
+import mongodb from "../assets/mongodb.png";
+import tailwind from "../assets/tailwind.png";
+import graphql from "../assets/graphql.png";
 
 
 const Experience = () => {
@@ -40,18 +44,30 @@ const Experience = () => {
       title: "Next JS",
       style: "shadow-green-400",
     },
-    // {
-    //   id: 6,
-    //   src: node,
-    //   title: "Node JS",
-    //   style: "shadow-green-600",
-    // },
-    // {
-    //   id: 7,
-    //   src: postgressql,
-    //   title: 'postgreSQL',
-    //   style: `shadow-sky-600`
-    // },
+    {
+      id: 6,
+      src: node,
+      title: "Node JS",
+      style: "shadow-green-600",
+    },
+    {
+      id: 7,
+      src: mongodb,
+      title: "MongoDB",
+      style: "shadow-green-500",
+    },
+    {
+      id: 9,
+      src: tailwind,
+      title: "Tailwind CSS",
+      style: "shadow-sky-500",
+    },
+    {
+      id: 10,
+      src: graphql,
+      title: "GraphQL",
+      style: "shadow-pink-500",
+    },
     {
       id: 8,
       src: github,

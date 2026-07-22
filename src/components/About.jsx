@@ -14,14 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl">
-          I am a passionate Front-end Developer with 2.8 years of experience and an MCA qualification, specializing in React.js and Next.js. Currently at Apaar Software Technology Services Private Limited, I leverage my expertise to deliver impactful solutions using cutting-edge technologies.
+          I am a results-driven Full Stack Developer with 3+ years of experience and an MCA qualification, specializing in React.js, Next.js, and Node.js. Currently at mTouch Labs Private Limited, I build core modules for CRM, HR, and project-management platforms, delivering measurable improvements in performance and usability.
         </p>
 
         <br />
 
         <p className="text-xl">
-          My journey in the tech world has equipped me with a profound understanding of both Front-end and Back-end technologies, enabling me to create robust and efficient software solutions.
-          As a proactive learner, I consistently stay ahead in the ever-evolving tech landscape, keeping myself updated with the latest industry trends. My confidence, dedication, and strong work ethic make me a valuable asset to any team or organization seeking innovative solutions in technology.
+          My experience spans building scalable UI components, RESTful APIs with Node.js and Express, and secure authentication with NextAuth and Keycloak, backed by MySQL and MongoDB. I'm skilled in state management (Redux, Zustand, React Query), schema-based form validation, and performance optimization — with growing expertise in GraphQL and backend architecture.
         </p>
 
         <br />
